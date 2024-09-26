@@ -19,3 +19,14 @@ Experiments
 :hearts:  
 :clubs:  
 :diamonds:  
+
+Keyboard Shortcuts  
+Shortcuts I frequently use: 
+- Command-C (copy)
+- Command-V (paste)
+- Command-F (find items)  
+
+Shortcuts I would like to start using:  
+- Shift-Command-4 (screenshot)  
+- Command-Y (use Quick Look to preview the selected files.)
+- Shift-Command-I (Open iCloud Drive)
