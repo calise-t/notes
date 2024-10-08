@@ -29,4 +29,9 @@ Shortcuts I frequently use:
 Shortcuts I would like to start using:  
 - Shift-Command-4 (screenshot)  
 - Command-Y (use Quick Look to preview the selected files.)
-- Shift-Command-I (Open iCloud Drive)
+- Shift-Command-I (Open iCloud Drive). 
+
+Link to CLI command  
+[CLI commands](cli.md). 
+
+
