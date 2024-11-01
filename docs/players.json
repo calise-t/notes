@@ -16,7 +16,7 @@
       {
         "name": "Serena Williams", //string
         "sport": "Tennis", //string
-        "team": {"name":"N/A", "city":"N/A"}, //string
+        "team": {"name":"N/A", "city":"N/A"}, //object
         "Position": "Player", //string
         "Age": 36 //integer
       },
